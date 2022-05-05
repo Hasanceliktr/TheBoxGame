@@ -13,6 +13,6 @@ public class TestScipt : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //Hasancelik
     }
 }
